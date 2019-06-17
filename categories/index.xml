@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Guillermo</title>
-    <link>https://gortizji.github.io/index.html/categories/</link>
+    <link>https://gortizji.github.io/categories/</link>
     <description>Recent content in Categories on Guillermo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="https://gortizji.github.io/index.html/categories/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://gortizji.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
