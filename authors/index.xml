@@ -6,10 +6,55 @@
     <description>Recent content in Authors on G. Ortiz Jiménez</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 May 2019 15:40:08 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2019 15:40:08 +0200</lastBuildDate>
     
 	    <atom:link href="https://gortizji.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>E. Simou</title>
+      <link>https://gortizji.github.io/authors/e.-simou/</link>
+      <pubDate>Fri, 13 Dec 2019 15:40:08 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/authors/e.-simou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Ortiz-Jiménez</title>
+      <link>https://gortizji.github.io/authors/g.-ortiz-jim%C3%A9nez/</link>
+      <pubDate>Fri, 13 Dec 2019 15:40:08 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/authors/g.-ortiz-jim%C3%A9nez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H.P. Maretic</title>
+      <link>https://gortizji.github.io/authors/h.p.-maretic/</link>
+      <pubDate>Fri, 13 Dec 2019 15:40:08 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/authors/h.p.-maretic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. El Gheche</title>
+      <link>https://gortizji.github.io/authors/m.-el-gheche/</link>
+      <pubDate>Fri, 13 Dec 2019 15:40:08 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/authors/m.-el-gheche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Frossard</title>
+      <link>https://gortizji.github.io/authors/p.-frossard/</link>
+      <pubDate>Fri, 13 Dec 2019 15:40:08 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/authors/p.-frossard/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>G. Leus</title>
@@ -17,15 +62,6 @@
       <pubDate>Thu, 09 May 2019 15:40:08 +0200</pubDate>
       
       <guid>https://gortizji.github.io/authors/g.-leus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>G. Ortiz-Jimenez</title>
-      <link>https://gortizji.github.io/authors/g.-ortiz-jimenez/</link>
-      <pubDate>Thu, 09 May 2019 15:40:08 +0200</pubDate>
-      
-      <guid>https://gortizji.github.io/authors/g.-ortiz-jimenez/</guid>
       <description></description>
     </item>
     
@@ -99,6 +135,10 @@
       
       <guid>https://gortizji.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a first-year PhD researcher working at &lt;a href=&#34;https://www.epfl.ch/en/&#34; target=&#34;_blank&#34;&gt;EPFL&lt;/a&gt; under the supervision of &lt;a href=&#34;https://lts4.epfl.ch&#34; target=&#34;_blank&#34;&gt;Prof. Pascal Frossard&lt;/a&gt;. In my research, I am trying to build an understanding of deep learning through the lens of adversarial perturbations.&lt;/p&gt;
+
+&lt;p&gt;Before starting my PhD, I used to live in The Netherlands, where I was working on sampling theory for tensors and network data at &lt;a href=&#34;https://www.tudelft.nl/en/&#34; target=&#34;_blank&#34;&gt;TU Delft&lt;/a&gt;. In the past, I have also spent some great time in Germany at &lt;a href=&#34;https://www.philips.com/a-w/research/home&#34; target=&#34;_blank&#34;&gt;Philips Research&lt;/a&gt; in Hamburg doing research on self-supervised deep learning for medical imaging.&lt;/p&gt;
+
+&lt;p&gt;Not so long ago, I was an undergraduate student at &lt;a href=&#34;http://www.upm.es/internacional&#34; target=&#34;_blank&#34;&gt;Universidad Politecnica de Madrid&lt;/a&gt;, Spain.&lt;/p&gt;
 </description>
     </item>
     
