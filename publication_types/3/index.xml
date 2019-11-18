@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>P. Frossard on G. Ortiz Jiménez</title>
-    <link>https://gortizji.github.io/authors/p.-frossard/</link>
-    <description>Recent content in P. Frossard on G. Ortiz Jiménez</description>
+    <title>3 on G. Ortiz Jiménez</title>
+    <link>https://gortizji.github.io/publication_types/3/</link>
+    <description>Recent content in 3 on G. Ortiz Jiménez</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 May 2020 16:46:53 +0200</lastBuildDate>
     
-	    <atom:link href="https://gortizji.github.io/authors/p.-frossard/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://gortizji.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -26,15 +26,6 @@
       <pubDate>Fri, 01 May 2020 15:46:53 +0200</pubDate>
       
       <guid>https://gortizji.github.io/publication/icassp_cdot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CDOT: Continuous Domain Adaptation using Optimal Transport</title>
-      <link>https://gortizji.github.io/publication/otml_2019/</link>
-      <pubDate>Fri, 13 Dec 2019 15:40:08 +0200</pubDate>
-      
-      <guid>https://gortizji.github.io/publication/otml_2019/</guid>
       <description></description>
     </item>
     
