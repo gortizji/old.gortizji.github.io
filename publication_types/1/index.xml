@@ -6,10 +6,28 @@
     <description>Recent content in 1 on G. Ortiz Jiménez</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Dec 2019 15:40:08 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2020 16:46:53 +0200</lastBuildDate>
     
 	    <atom:link href="https://gortizji.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>On the Choice of Graph Neural Network Architectures</title>
+      <link>https://gortizji.github.io/publication/icassp_gnn/</link>
+      <pubDate>Fri, 01 May 2020 16:46:53 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/icassp_gnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward-Backward Splitting for Optimal Transport based Problems</title>
+      <link>https://gortizji.github.io/publication/icassp_cdot/</link>
+      <pubDate>Fri, 01 May 2020 15:46:53 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/icassp_cdot/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CDOT: Continuous Domain Adaptation using Optimal Transport</title>
