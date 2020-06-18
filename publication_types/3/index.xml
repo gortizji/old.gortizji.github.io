@@ -6,15 +6,24 @@
     <description>Recent content in 3 on G. Ortiz Jiménez</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2020 17:50:15 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2020 12:20:44 +0200</lastBuildDate>
     
 	    <atom:link href="https://gortizji.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Neural Anisotropy Directions</title>
+      <link>https://gortizji.github.io/publication/neural-anisotropy/</link>
+      <pubDate>Thu, 18 Jun 2020 12:20:44 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/neural-anisotropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hold me tight! Influence of discriminative features on deep network boundaries</title>
       <link>https://gortizji.github.io/publication/hold_me_tight/</link>
-      <pubDate>Wed, 15 Jul 2020 17:50:15 +0100</pubDate>
+      <pubDate>Sat, 15 Feb 2020 17:50:15 +0100</pubDate>
       
       <guid>https://gortizji.github.io/publication/hold_me_tight/</guid>
       <description></description>
