@@ -6,10 +6,28 @@
     <description>Recent content in Publications on G. Ortiz-Jiménez</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2020 17:52:29 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 07 Dec 2020 12:20:44 +0200</lastBuildDate>
     
 	    <atom:link href="https://gortizji.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Neural Anisotropy Directions</title>
+      <link>https://gortizji.github.io/publication/neural-anisotropy/</link>
+      <pubDate>Mon, 07 Dec 2020 12:20:44 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/neural-anisotropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hold me tight! Influence of discriminative features on deep network boundaries</title>
+      <link>https://gortizji.github.io/publication/hold_me_tight/</link>
+      <pubDate>Sun, 06 Dec 2020 17:50:15 +0100</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/hold_me_tight/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Redundant features can hurt robustness to distribution shift</title>
@@ -17,15 +35,6 @@
       <pubDate>Sun, 05 Jul 2020 17:52:29 +0200</pubDate>
       
       <guid>https://gortizji.github.io/publication/udl_2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural Anisotropy Directions</title>
-      <link>https://gortizji.github.io/publication/neural-anisotropy/</link>
-      <pubDate>Thu, 18 Jun 2020 12:20:44 +0200</pubDate>
-      
-      <guid>https://gortizji.github.io/publication/neural-anisotropy/</guid>
       <description></description>
     </item>
     
@@ -44,15 +53,6 @@
       <pubDate>Fri, 01 May 2020 15:46:53 +0200</pubDate>
       
       <guid>https://gortizji.github.io/publication/icassp_cdot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hold me tight! Influence of discriminative features on deep network boundaries</title>
-      <link>https://gortizji.github.io/publication/hold_me_tight/</link>
-      <pubDate>Sat, 15 Feb 2020 17:50:15 +0100</pubDate>
-      
-      <guid>https://gortizji.github.io/publication/hold_me_tight/</guid>
       <description></description>
     </item>
     
