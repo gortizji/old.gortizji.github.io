@@ -6,10 +6,19 @@
     <description>Recent content on G. Ortiz-Jiménez</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 May 2021 17:52:29 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jun 2021 12:20:44 +0200</lastBuildDate>
     
 	    <atom:link href="https://gortizji.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What can linearized neural networks actually say about generalization?</title>
+      <link>https://gortizji.github.io/publication/linearized_nets_neurips_2021/</link>
+      <pubDate>Sat, 12 Jun 2021 12:20:44 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/linearized_nets_neurips_2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A neural anisotropic view of underspecification in deep learning</title>

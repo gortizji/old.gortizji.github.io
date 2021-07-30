@@ -3,6 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gortizji.github.io/publication_types/3/</loc>
+    <lastmod>2021-06-12T12:20:44+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gortizji.github.io/authors/</loc>
+    <lastmod>2021-06-12T12:20:44+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gortizji.github.io/authors/g.-ortiz-jimenez/</loc>
+    <lastmod>2021-06-12T12:20:44+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gortizji.github.io/</loc>
+    <lastmod>2021-06-12T12:20:44+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gortizji.github.io/authors/p.-frossard/</loc>
+    <lastmod>2021-06-12T12:20:44+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gortizji.github.io/publication_types/</loc>
+    <lastmod>2021-06-12T12:20:44+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gortizji.github.io/publication/</loc>
+    <lastmod>2021-06-12T12:20:44+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gortizji.github.io/authors/s.m.-moosavi-dezfooli/</loc>
+    <lastmod>2021-06-12T12:20:44+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gortizji.github.io/publication/linearized_nets_neurips_2021/</loc>
+    <lastmod>2021-06-12T12:20:44+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gortizji.github.io/publication_types/9/</loc>
     <lastmod>2021-05-05T17:52:29+02:00</lastmod>
     <priority>0</priority>
@@ -20,48 +72,7 @@
   </url>
   
   <url>
-    <loc>https://gortizji.github.io/authors/</loc>
-    <lastmod>2021-05-05T17:52:29+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gortizji.github.io/authors/g.-ortiz-jimenez/</loc>
-    <lastmod>2021-05-05T17:52:29+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gortizji.github.io/</loc>
-    <lastmod>2021-05-05T17:52:29+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://gortizji.github.io/authors/i.f.-salazar-reque/</loc>
-    <lastmod>2021-05-05T17:52:29+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gortizji.github.io/authors/p.-frossard/</loc>
-    <lastmod>2021-05-05T17:52:29+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gortizji.github.io/publication_types/</loc>
-    <lastmod>2021-05-05T17:52:29+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gortizji.github.io/publication/</loc>
-    <lastmod>2021-05-05T17:52:29+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gortizji.github.io/authors/s.m.-moosavi-dezfooli/</loc>
     <lastmod>2021-05-05T17:52:29+02:00</lastmod>
     <priority>0</priority>
   </url>
