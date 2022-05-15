@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="The underspecification of most machine learning pipelines means that we cannot rely solely on validation performance to assess the robustness of deep learning systems to naturally occurring distribution shifts. Instead, making sure that a neural network can generalize across a large number of different situations requires to understand the specific way in which it solves a task. In this work, we propose to study this problem from a geometric perspective with the aim to understand two key characteristics of neural network solutions in underspecified settings: how is the geometry of the learned function related to the data representation? And, are deep networks always biased towards simpler solutions, as conjectured in recent literature? We show that the way neural networks handle the underspecification of these problems is highly dependent on the data representation, affecting both the geometry and the complexity of the learned predictors. Our results highlight that understanding the architectural inductive bias in deep learning is fundamental to address the fairness, robustness, and generalization of these systems.">
+  <meta name="description" content="We present a thorough analysis and provide general guidelines to distill knowledge from a robust teacher and boost the clean and adversarial performance of a student model even further.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://gortizji.github.io/publication/robustml_iclr_2021/">
+  <link rel="alternate" hreflang="en-us" href="https://gortizji.github.io/publication/knowledge_distillation/">
 
   
 
@@ -96,7 +96,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://gortizji.github.io/publication/robustml_iclr_2021/">
+  <link rel="canonical" href="https://gortizji.github.io/publication/knowledge_distillation/">
 
   
   
@@ -111,26 +111,26 @@
   <meta property="twitter:creator" content="@@gortizji">
   
   <meta property="og:site_name" content="G. Ortiz-Jiménez">
-  <meta property="og:url" content="https://gortizji.github.io/publication/robustml_iclr_2021/">
-  <meta property="og:title" content="A neural anisotropic view of underspecification in deep learning | G. Ortiz-Jiménez">
-  <meta property="og:description" content="The underspecification of most machine learning pipelines means that we cannot rely solely on validation performance to assess the robustness of deep learning systems to naturally occurring distribution shifts. Instead, making sure that a neural network can generalize across a large number of different situations requires to understand the specific way in which it solves a task. In this work, we propose to study this problem from a geometric perspective with the aim to understand two key characteristics of neural network solutions in underspecified settings: how is the geometry of the learned function related to the data representation? And, are deep networks always biased towards simpler solutions, as conjectured in recent literature? We show that the way neural networks handle the underspecification of these problems is highly dependent on the data representation, affecting both the geometry and the complexity of the learned predictors. Our results highlight that understanding the architectural inductive bias in deep learning is fundamental to address the fairness, robustness, and generalization of these systems."><meta property="og:image" content="https://gortizji.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://gortizji.github.io/publication/knowledge_distillation/">
+  <meta property="og:title" content="On the benefits of knowledge distillation for adversarial robustness | G. Ortiz-Jiménez">
+  <meta property="og:description" content="We present a thorough analysis and provide general guidelines to distill knowledge from a robust teacher and boost the clean and adversarial performance of a student model even further."><meta property="og:image" content="https://gortizji.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2021-05-03T12:52:29&#43;02:00">
+  <meta property="article:published_time" content="2022-04-13T12:52:29&#43;02:00">
   
-  <meta property="article:modified_time" content="2021-05-05T17:52:29&#43;02:00">
+  <meta property="article:modified_time" content="2022-04-13T12:52:29&#43;02:00">
   
-
-  
-
 
   
 
 
+  
 
 
 
-  <title>A neural anisotropic view of underspecification in deep learning | G. Ortiz-Jiménez</title>
+
+
+  <title>On the benefits of knowledge distillation for adversarial robustness | G. Ortiz-Jiménez</title>
 
 </head>
 
@@ -367,7 +367,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">A neural anisotropic view of underspecification in deep learning</h1>
+  <h1 itemprop="name">On the benefits of knowledge distillation for adversarial robustness</h1>
 
   
 
@@ -376,8 +376,8 @@
 
 
 
-<meta content="2021-05-05 17:52:29 &#43;0200 &#43;0200" itemprop="datePublished">
-<meta content="2021-05-05 17:52:29 &#43;0200 &#43;0200" itemprop="dateModified">
+<meta content="2022-04-13 12:52:29 &#43;0200 &#43;0200" itemprop="datePublished">
+<meta content="2022-04-13 12:52:29 &#43;0200 &#43;0200" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -390,7 +390,7 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/g.-ortiz-jimenez/">G. Ortiz-Jimenez</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/i.f.-salazar-reque/">I.F. Salazar-Reque</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-modas/">A. Modas</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/s.m.-moosavi-dezfooli/">S.M. Moosavi-Dezfooli</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/p.-frossard/">P. Frossard</a></span>
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/j.-maroto/">J. Maroto</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/g.-ortiz-jimenez/">G. Ortiz-Jimenez</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/p.-frossard/">P. Frossard</a></span>
 
   </div>
   
@@ -402,7 +402,7 @@
     
       
     
-    <time>May 2021</time>
+    <time>April 2022</time>
   </span>
   
 
@@ -422,35 +422,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=A%20neural%20anisotropic%20view%20of%20underspecification%20in%20deep%20learning&amp;url=https%3a%2f%2fgortizji.github.io%2fpublication%2frobustml_iclr_2021%2f"
+         href="https://twitter.com/intent/tweet?text=On%20the%20benefits%20of%20knowledge%20distillation%20for%20adversarial%20robustness&amp;url=https%3a%2f%2fgortizji.github.io%2fpublication%2fknowledge_distillation%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fgortizji.github.io%2fpublication%2frobustml_iclr_2021%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fgortizji.github.io%2fpublication%2fknowledge_distillation%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fgortizji.github.io%2fpublication%2frobustml_iclr_2021%2f&amp;title=A%20neural%20anisotropic%20view%20of%20underspecification%20in%20deep%20learning"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fgortizji.github.io%2fpublication%2fknowledge_distillation%2f&amp;title=On%20the%20benefits%20of%20knowledge%20distillation%20for%20adversarial%20robustness"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fgortizji.github.io%2fpublication%2frobustml_iclr_2021%2f&amp;title=A%20neural%20anisotropic%20view%20of%20underspecification%20in%20deep%20learning"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fgortizji.github.io%2fpublication%2fknowledge_distillation%2f&amp;title=On%20the%20benefits%20of%20knowledge%20distillation%20for%20adversarial%20robustness"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=A%20neural%20anisotropic%20view%20of%20underspecification%20in%20deep%20learning&amp;body=https%3a%2f%2fgortizji.github.io%2fpublication%2frobustml_iclr_2021%2f">
+         href="mailto:?subject=On%20the%20benefits%20of%20knowledge%20distillation%20for%20adversarial%20robustness&amp;body=https%3a%2f%2fgortizji.github.io%2fpublication%2fknowledge_distillation%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -493,7 +493,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2104.14372v1.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2203.07159.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -513,22 +513,6 @@
 
 
 
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://twitter.com/smoosavid/status/1388888305127858177?s=21" target="_blank" rel="noopener">
-    <i class="fab fa-twitter mr-1"></i>
-    Tweet
-  </a>
-
 
 </div>
 
@@ -542,7 +526,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">The underspecification of most machine learning pipelines means that we cannot rely solely on validation performance to assess the robustness of deep learning systems to naturally occurring distribution shifts. Instead, making sure that a neural network can generalize across a large number of different situations requires to understand the specific way in which it solves a task. In this work, we propose to study this problem from a geometric perspective with the aim to understand two key characteristics of neural network solutions in underspecified settings: how is the geometry of the learned function related to the data representation? And, are deep networks always biased towards simpler solutions, as conjectured in recent literature? We show that the way neural networks handle the underspecification of these problems is highly dependent on the data representation, affecting both the geometry and the complexity of the learned predictors. Our results highlight that understanding the architectural inductive bias in deep learning is fundamental to address the fairness, robustness, and generalization of these systems.</p>
+    <p class="pub-abstract" itemprop="text">Knowledge distillation is normally used to compress a big network, or teacher, onto a smaller one, the student, by training it to match its outputs. Recently, some works have shown that robustness against adversarial attacks can also be distilled effectively to achieve good rates of robustness on mobile-friendly models. In this work, however, we take a different point of view, and show that knowledge distillation can be used directly to boost the performance of state-of-the-art models in adversarial robustness. In this sense, we present a thorough analysis and provide general guidelines to distill knowledge from a robust teacher and boost the clean and adversarial performance of a student model even further. To that end, we present Adversarial Knowledge Distillation (AKD), a new framework to improve a model&rsquo;s robust performance, consisting on adversarially training a student on a mixture of the original labels and the teacher outputs. Through carefully controlled ablation studies, we show that using early-stopping, model ensembles and weak adversarial training are key techniques to maximize performance of the student, and show that these insights generalize across different robust distillation techniques. Finally, we provide insights on the effect of robust knowledge distillation on the dynamics of the student network, and show that AKD mostly improves the calibration of the network and modify its training dynamics on samples that the model finds difficult to learn, or even memorize.</p>
     
 
     
@@ -554,8 +538,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#9">
-              Workshop
+            <a href="/publication/#3">
+              Preprint
             </a>
             
           </div>
@@ -572,7 +556,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Robust Machine Learning Workshop (ICLR 2021)</div>
+          <div class="col-12 col-md-9">Preprint (arXiv)</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -614,7 +598,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="/authors/g.-ortiz-jimenez/"></a></h5>
+      <h5 class="card-title" itemprop="name"><a href="/authors/j.-maroto/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">

@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="The underspecification of most machine learning pipelines means that we cannot rely solely on validation performance to assess the robustness of deep learning systems to naturally occurring distribution shifts. Instead, making sure that a neural network can generalize across a large number of different situations requires to understand the specific way in which it solves a task. In this work, we propose to study this problem from a geometric perspective with the aim to understand two key characteristics of neural network solutions in underspecified settings: how is the geometry of the learned function related to the data representation? And, are deep networks always biased towards simpler solutions, as conjectured in recent literature? We show that the way neural networks handle the underspecification of these problems is highly dependent on the data representation, affecting both the geometry and the complexity of the learned predictors. Our results highlight that understanding the architectural inductive bias in deep learning is fundamental to address the fairness, robustness, and generalization of these systems.">
+  <meta name="description" content="PhD Student">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://gortizji.github.io/publication/robustml_iclr_2021/">
+  <link rel="alternate" hreflang="en-us" href="https://gortizji.github.io/authors/j.-maroto/">
 
   
 
@@ -91,12 +91,15 @@
   
 
   
+  <link rel="alternate" href="/authors/j.-maroto/index.xml" type="application/rss+xml" title="G. Ortiz-Jiménez">
+  <link rel="feed" href="/authors/j.-maroto/index.xml" type="application/rss+xml" title="G. Ortiz-Jiménez">
+  
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://gortizji.github.io/publication/robustml_iclr_2021/">
+  <link rel="canonical" href="https://gortizji.github.io/authors/j.-maroto/">
 
   
   
@@ -111,14 +114,12 @@
   <meta property="twitter:creator" content="@@gortizji">
   
   <meta property="og:site_name" content="G. Ortiz-Jiménez">
-  <meta property="og:url" content="https://gortizji.github.io/publication/robustml_iclr_2021/">
-  <meta property="og:title" content="A neural anisotropic view of underspecification in deep learning | G. Ortiz-Jiménez">
-  <meta property="og:description" content="The underspecification of most machine learning pipelines means that we cannot rely solely on validation performance to assess the robustness of deep learning systems to naturally occurring distribution shifts. Instead, making sure that a neural network can generalize across a large number of different situations requires to understand the specific way in which it solves a task. In this work, we propose to study this problem from a geometric perspective with the aim to understand two key characteristics of neural network solutions in underspecified settings: how is the geometry of the learned function related to the data representation? And, are deep networks always biased towards simpler solutions, as conjectured in recent literature? We show that the way neural networks handle the underspecification of these problems is highly dependent on the data representation, affecting both the geometry and the complexity of the learned predictors. Our results highlight that understanding the architectural inductive bias in deep learning is fundamental to address the fairness, robustness, and generalization of these systems."><meta property="og:image" content="https://gortizji.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://gortizji.github.io/authors/j.-maroto/">
+  <meta property="og:title" content="J. Maroto | G. Ortiz-Jiménez">
+  <meta property="og:description" content="PhD Student"><meta property="og:image" content="https://gortizji.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2021-05-03T12:52:29&#43;02:00">
-  
-  <meta property="article:modified_time" content="2021-05-05T17:52:29&#43;02:00">
+  <meta property="og:updated_time" content="2022-04-13T12:52:29&#43;02:00">
   
 
   
@@ -130,7 +131,7 @@
 
 
 
-  <title>A neural anisotropic view of underspecification in deep learning | G. Ortiz-Jiménez</title>
+  <title>J. Maroto | G. Ortiz-Jiménez</title>
 
 </head>
 
@@ -346,290 +347,35 @@
 </nav>
 
 
-  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
-
   
 
-
-
-
-
-
-
-
-
-
-
-
-  
-
-  
-  
-  
-<div class="article-container pt-3">
-  <h1 itemprop="name">A neural anisotropic view of underspecification in deep learning</h1>
-
-  
-
-  
-    
-
-
-
-<meta content="2021-05-05 17:52:29 &#43;0200 &#43;0200" itemprop="datePublished">
-<meta content="2021-05-05 17:52:29 &#43;0200 &#43;0200" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-
-
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/g.-ortiz-jimenez/">G. Ortiz-Jimenez</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/i.f.-salazar-reque/">I.F. Salazar-Reque</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-modas/">A. Modas</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/s.m.-moosavi-dezfooli/">S.M. Moosavi-Dezfooli</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/p.-frossard/">P. Frossard</a></span>
-
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    <time>May 2021</time>
-  </span>
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
-
-  
-    
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    <li>
-      <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=A%20neural%20anisotropic%20view%20of%20underspecification%20in%20deep%20learning&amp;url=https%3a%2f%2fgortizji.github.io%2fpublication%2frobustml_iclr_2021%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fgortizji.github.io%2fpublication%2frobustml_iclr_2021%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fgortizji.github.io%2fpublication%2frobustml_iclr_2021%2f&amp;title=A%20neural%20anisotropic%20view%20of%20underspecification%20in%20deep%20learning"
-         target="_blank" rel="noopener">
-        <i class="fab fa-linkedin-in"></i>
-      </a>
-    </li>
-    <li>
-      <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fgortizji.github.io%2fpublication%2frobustml_iclr_2021%2f&amp;title=A%20neural%20anisotropic%20view%20of%20underspecification%20in%20deep%20learning"
-         target="_blank" rel="noopener">
-        <i class="fab fa-weibo"></i>
-      </a>
-    </li>
-    <li>
-      <a class="email"
-         href="mailto:?subject=A%20neural%20anisotropic%20view%20of%20underspecification%20in%20deep%20learning&amp;body=https%3a%2f%2fgortizji.github.io%2fpublication%2frobustml_iclr_2021%2f">
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  </ul>
+<div class="universal-wrapper pt-3">
+  <h1 itemprop="name">J. Maroto</h1>
 </div>
 
 
-  
-
-</div>
-
+<section id="profile-page" class="pt-5">
+  <div class="container">
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2104.14372v1.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://twitter.com/smoosavid/status/1388888305127858177?s=21" target="_blank" rel="noopener">
-    <i class="fab fa-twitter mr-1"></i>
-    Tweet
-  </a>
-
-
-</div>
-
-
-  
-</div>
-
-
-
-  <div class="article-container">
-
-    
-    <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">The underspecification of most machine learning pipelines means that we cannot rely solely on validation performance to assess the robustness of deep learning systems to naturally occurring distribution shifts. Instead, making sure that a neural network can generalize across a large number of different situations requires to understand the specific way in which it solves a task. In this work, we propose to study this problem from a geometric perspective with the aim to understand two key characteristics of neural network solutions in underspecified settings: how is the geometry of the learned function related to the data representation? And, are deep networks always biased towards simpler solutions, as conjectured in recent literature? We show that the way neural networks handle the underspecification of these problems is highly dependent on the data representation, affecting both the geometry and the complexity of the learned predictors. Our results highlight that understanding the architectural inductive bias in deep learning is fundamental to address the fairness, robustness, and generalization of these systems.</p>
     
 
     
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Type</div>
-          <div class="col-12 col-md-9">
-            
-            
-            <a href="/publication/#9">
-              Workshop
-            </a>
-            
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
     
-
     
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Robust Machine Learning Workshop (ICLR 2021)</div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    <div class="space-below"></div>
-
-    <div class="article-style"></div>
-
-    
-
-
-    
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-  
-
-
-
-
-
-  
-  
-  
-  
-  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
-    
-
-    <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="/authors/g.-ortiz-jimenez/"></a></h5>
-      
-      
-      <ul class="network-icon" aria-hidden="true">
+    <div class="article-widget">
+      <div class="hr-light"></div>
+      <h3>Latest</h3>
+      <ul>
+        
+        <li>
+          <a href="/publication/knowledge_distillation/">On the benefits of knowledge distillation for adversarial robustness</a>
+        </li>
         
       </ul>
     </div>
   </div>
-
-
-
-
-  </div>
-</div>
-
-
+  
+</section>
 
       
 
