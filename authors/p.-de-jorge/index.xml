@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 on G. Ortiz-Jiménez</title>
-    <link>https://gortizji.github.io/publication_types/3/</link>
-    <description>Recent content in 3 on G. Ortiz-Jiménez</description>
+    <title>P. de Jorge* on G. Ortiz-Jiménez</title>
+    <link>https://gortizji.github.io/authors/p.-de-jorge/</link>
+    <description>Recent content in P. de Jorge* on G. Ortiz-Jiménez</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Jun 2022 12:22:44 +0200</lastBuildDate>
     
-	    <atom:link href="https://gortizji.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://gortizji.github.io/authors/p.-de-jorge/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Mon, 27 Jun 2022 12:22:44 +0200</pubDate>
       
       <guid>https://gortizji.github.io/publication/co_oxford/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the benefits of knowledge distillation for adversarial robustness</title>
-      <link>https://gortizji.github.io/publication/knowledge_distillation/</link>
-      <pubDate>Wed, 13 Apr 2022 12:52:29 +0200</pubDate>
-      
-      <guid>https://gortizji.github.io/publication/knowledge_distillation/</guid>
       <description></description>
     </item>
     
