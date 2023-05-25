@@ -6,13 +6,22 @@
     <description>Recent content in P. Frossard on G. Ortiz-Jiménez</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jun 2022 12:22:44 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2023 12:22:44 +0200</lastBuildDate>
     
 	    <atom:link href="https://gortizji.github.io/authors/p.-frossard/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Catastrophic overfitting is a bug but also a feature</title>
+      <title>Task arithmetic in the tangent space: Improved editing of pre-trained models</title>
+      <link>https://gortizji.github.io/publication/task_ntk/</link>
+      <pubDate>Tue, 23 May 2023 12:22:44 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/task_ntk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catastrophic overfitting can be induced with discriminative non-robust features</title>
       <link>https://gortizji.github.io/publication/co_oxford/</link>
       <pubDate>Mon, 27 Jun 2022 12:22:44 +0200</pubDate>
       
@@ -26,15 +35,6 @@
       <pubDate>Mon, 27 Jun 2022 12:22:44 +0200</pubDate>
       
       <guid>https://gortizji.github.io/publication/prime_2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the benefits of knowledge distillation for adversarial robustness</title>
-      <link>https://gortizji.github.io/publication/knowledge_distillation/</link>
-      <pubDate>Wed, 13 Apr 2022 12:52:29 +0200</pubDate>
-      
-      <guid>https://gortizji.github.io/publication/knowledge_distillation/</guid>
       <description></description>
     </item>
     
@@ -116,15 +116,6 @@
       <pubDate>Fri, 01 May 2020 15:46:53 +0200</pubDate>
       
       <guid>https://gortizji.github.io/publication/icassp_cdot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CDOT: Continuous Domain Adaptation using Optimal Transport</title>
-      <link>https://gortizji.github.io/publication/otml_2019/</link>
-      <pubDate>Fri, 13 Dec 2019 15:40:08 +0200</pubDate>
-      
-      <guid>https://gortizji.github.io/publication/otml_2019/</guid>
       <description></description>
     </item>
     

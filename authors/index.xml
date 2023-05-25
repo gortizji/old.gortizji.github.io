@@ -6,10 +6,37 @@
     <description>Recent content in Authors on G. Ortiz-Jiménez</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Mar 2023 12:52:29 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2023 12:22:44 +0200</lastBuildDate>
     
 	    <atom:link href="https://gortizji.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A. Favero*</title>
+      <link>https://gortizji.github.io/authors/a.-favero/</link>
+      <pubDate>Tue, 23 May 2023 12:22:44 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/authors/a.-favero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Ortiz-Jimenez*</title>
+      <link>https://gortizji.github.io/authors/g.-ortiz-jimenez/</link>
+      <pubDate>Tue, 23 May 2023 12:22:44 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/authors/g.-ortiz-jimenez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Frossard</title>
+      <link>https://gortizji.github.io/authors/p.-frossard/</link>
+      <pubDate>Tue, 23 May 2023 12:22:44 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/authors/p.-frossard/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A. D&#39;Amour</title>
@@ -35,15 +62,6 @@
       <pubDate>Wed, 08 Mar 2023 12:52:29 +0200</pubDate>
       
       <guid>https://gortizji.github.io/authors/e.-kokiopoulou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>G. Ortiz-Jimenez*</title>
-      <link>https://gortizji.github.io/authors/g.-ortiz-jimenez/</link>
-      <pubDate>Wed, 08 Mar 2023 12:52:29 +0200</pubDate>
-      
-      <guid>https://gortizji.github.io/authors/g.-ortiz-jimenez/</guid>
       <description></description>
     </item>
     
@@ -120,15 +138,6 @@
     </item>
     
     <item>
-      <title>P. Frossard</title>
-      <link>https://gortizji.github.io/authors/p.-frossard/</link>
-      <pubDate>Mon, 27 Jun 2022 12:22:44 +0200</pubDate>
-      
-      <guid>https://gortizji.github.io/authors/p.-frossard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>P. Torr</title>
       <link>https://gortizji.github.io/authors/p.-torr/</link>
       <pubDate>Mon, 27 Jun 2022 12:22:44 +0200</pubDate>
@@ -161,15 +170,6 @@
       <pubDate>Mon, 27 Jun 2022 12:22:44 +0200</pubDate>
       
       <guid>https://gortizji.github.io/authors/s.m.-moosavi-dezfooli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. Maroto</title>
-      <link>https://gortizji.github.io/authors/j.-maroto/</link>
-      <pubDate>Wed, 13 Apr 2022 12:52:29 +0200</pubDate>
-      
-      <guid>https://gortizji.github.io/authors/j.-maroto/</guid>
       <description></description>
     </item>
     
@@ -314,11 +314,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gortizji.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a PhD student at &lt;span style=&#34;font-family: Lato&#34;&gt;&lt;a href=&#34;https://www.epfl.ch/en/&#34; target=&#34;_blank&#34;&gt;EPFL&lt;/a&gt;&lt;/span&gt; working under the supervision of &lt;span style=&#34;font-family: Lato&#34;&gt;&lt;a href=&#34;https://lts4.epfl.ch&#34; target=&#34;_blank&#34;&gt;Pascal Frossard&lt;/a&gt;&lt;/span&gt;. My research focuses on &lt;span style=&#34;font-family: Lato; color: #003a4f&#34;&gt;understanding deep learning&lt;/span&gt; with the aim to design better and &lt;span style=&#34;font-family: Lato; color: #003a4f&#34;&gt;more reliable neural networks&lt;/span&gt; that exploit prior knowledge about the world.&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m a PhD student at &lt;span style=&#34;font-family: Lato&#34;&gt;&lt;a href=&#34;https://www.epfl.ch/en/&#34; target=&#34;_blank&#34;&gt;EPFL&lt;/a&gt;&lt;/span&gt; working under the supervision of &lt;span style=&#34;font-family: Lato&#34;&gt;&lt;a href=&#34;https://lts4.epfl.ch&#34; target=&#34;_blank&#34;&gt;Pascal Frossard&lt;/a&gt;&lt;/span&gt;. My research focuses on &lt;span style=&#34;font-family: lato; color: #003a4f&#34;&gt;understanding and enhancing AI systems&lt;/span&gt; by studying how weight space and function space are related in deep learning. I am particularly interested in making large pre-trained models &lt;span style=&#34;font-family: lato; color: #003a4f&#34;&gt;more reliable and trustworthy&lt;/span&gt;.&lt;/p&gt;
 
-&lt;p&gt;Last summer, I was a research intern at &lt;span style=&#34;font-family: Lato&#34;&gt;&lt;a href=&#34;https://research.google&#34; target=&#34;_blank&#34;&gt;Google Research&lt;/a&gt;&lt;/span&gt; in Zurich, where I worked with &lt;span style=&#34;font-family: Lato&#34;&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=9om-fCsAAAAJ&#34; target=&#34;_blank&#34;&gt;Efi Kokiopoulou&lt;/a&gt;&lt;/span&gt; and &lt;span style=&#34;font-family: Lato&#34;&gt;&lt;a href=&#34;https://rodolphejenatton.com/&#34; target=&#34;_blank&#34;&gt;Rodolphe Jenatton&lt;/a&gt;&lt;/span&gt;. In spring 2022, I visited &lt;span style=&#34;font-family: Lato&#34;&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=kPxa2w0AAAAJ&#34; target=&#34;_blank&#34;&gt;Philip Torr&lt;/a&gt;&lt;/span&gt;&amp;rsquo;s lab at the &lt;span style=&#34;font-family: Lato&#34;&gt;&lt;a href=&#34;https://eng.ox.ac.uk/&#34; target=&#34;_blank&#34;&gt;University of Oxford&lt;/a&gt;&lt;/span&gt; as part of the &lt;span style=&#34;font-family: Lato&#34;&gt;&lt;a href=&#34;https://ellis.eu/projects/a-geometric-look-to-understand-generalization-and-robustness-of-deep-learning&#34; target=&#34;_blank&#34;&gt;ELLIS PhD Program&lt;/a&gt;&lt;/span&gt;, where I conducted research on the &lt;span style=&#34;font-family: Lato; color: #003a4f&#34;&gt;robustness of neural networks&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;Last summer, I was a research intern at &lt;span style=&#34;font-family: Lato&#34;&gt;&lt;a href=&#34;https://research.google&#34; target=&#34;_blank&#34;&gt;Google Research&lt;/a&gt;&lt;/span&gt; in Zurich, where I worked with &lt;span style=&#34;font-family: Lato&#34;&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=9om-fCsAAAAJ&#34; target=&#34;_blank&#34;&gt;Efi Kokiopoulou&lt;/a&gt;&lt;/span&gt; and &lt;span style=&#34;font-family: Lato&#34;&gt;&lt;a href=&#34;https://rodolphejenatton.com/&#34; target=&#34;_blank&#34;&gt;Rodolphe Jenatton&lt;/a&gt;&lt;/span&gt; on scalable solutions for label noise. I have also visited &lt;span style=&#34;font-family: Lato&#34;&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=kPxa2w0AAAAJ&#34; target=&#34;_blank&#34;&gt;Philip Torr&lt;/a&gt;&lt;/span&gt;&amp;rsquo;s lab at the &lt;span style=&#34;font-family: Lato&#34;&gt;&lt;a href=&#34;https://eng.ox.ac.uk/&#34; target=&#34;_blank&#34;&gt;University of Oxford&lt;/a&gt;&lt;/span&gt; as part of the &lt;span style=&#34;font-family: Lato&#34;&gt;&lt;a href=&#34;https://ellis.eu/projects/a-geometric-look-to-understand-generalization-and-robustness-of-deep-learning&#34; target=&#34;_blank&#34;&gt;ELLIS PhD Program&lt;/a&gt;&lt;/span&gt;, where I conducted research on the robustness of neural networks.&lt;/p&gt;
 
-&lt;p&gt;Before starting my PhD, I lived in The Netherlands for two years, where I worked on sampling theory for tensors and graph data at &lt;span style=&#34;font-family: Lato&#34;&gt;&lt;a href=&#34;https://www.tudelft.nl/en/&#34; target=&#34;_blank&#34;&gt;TU Delft&lt;/a&gt;&lt;/span&gt;. In the past, I also spent some great time at &lt;span style=&#34;font-family: Lato&#34;&gt;&lt;a href=&#34;https://www.philips.com/a-w/research/home&#34; target=&#34;_blank&#34;&gt;Philips Research&lt;/a&gt;&lt;/span&gt; in Hamburg working on self-supervised deep learning for medical imaging. Some time ago, I was an undergraduate student at &lt;span style=&#34;font-family: Lato&#34;&gt;&lt;a href=&#34;http://www.upm.es/internacional&#34; target=&#34;_blank&#34;&gt;Universidad Politecnica de Madrid&lt;/a&gt;&lt;/span&gt;, Spain.&lt;/p&gt;
+&lt;p&gt;Before starting my PhD, I lived in The Netherlands where I worked on sampling theory for tensors and graphs at &lt;span style=&#34;font-family: Lato&#34;&gt;&lt;a href=&#34;https://www.tudelft.nl/en/&#34; target=&#34;_blank&#34;&gt;TU Delft&lt;/a&gt;&lt;/span&gt;. I also spent some great time in Hamburg at &lt;span style=&#34;font-family: Lato&#34;&gt;&lt;a href=&#34;https://www.philips.com/a-w/research/home&#34; target=&#34;_blank&#34;&gt;Philips Research&lt;/a&gt;&lt;/span&gt; working on self-supervised deep learning for medical imaging. Some time ago, I was a young undergraduate student at &lt;span style=&#34;font-family: Lato&#34;&gt;&lt;a href=&#34;http://www.upm.es/internacional&#34; target=&#34;_blank&#34;&gt;Universidad Politecnica de Madrid&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;
 </description>
     </item>
     
